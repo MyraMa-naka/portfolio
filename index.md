@@ -106,7 +106,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![ia_100000000443](pic/ia_100000000443.jpg)
 
-![ia_100000000446](pic/ia_100000000446.jpg)
+### # 你好
 
 ![ia_100000000448](pic/ia_100000000448.jpg)
 
@@ -130,11 +130,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![ia_100000000467](pic/ia_100000000467.jpg)
 
-![ia_100000000468](pic/ia_100000000468.jpg)
+[Link](Section 2-1) and ![Course selecting](pic/ia_100000000409.jpg)
 
-![ia_100000000485](pic/ia_100000000485.jpg)
 
-![ia_100000000490](pic/ia_100000000490.jpg)
 
 
 
