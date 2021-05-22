@@ -130,7 +130,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![ia_100000000467](pic/ia_100000000467.jpg)
 
-[Link](Section 2-1) and ![Course selecting](pic/ia_100000000409.jpg)
+[![Course selecting](pic/ia_100000000409.jpg)](Section 2-1.md) 
 
 
 
