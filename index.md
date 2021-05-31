@@ -30,7 +30,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-![ia_100000000437](pic/ia_100000000437.jpg
+![ia_100000000437](pic/ia_100000000437.jpg)
 
 ![ia_100000000448](pic/ia_100000000448.jpg)
 
