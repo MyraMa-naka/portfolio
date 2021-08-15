@@ -2,7 +2,7 @@
 
 | [![Course selecting](pic/ia_100000000409.jpg)](Section 2-1) |                                                              |
 | ----------------------------------------------------------- | ------------------------------------------------------------ |
-|                                                             | [![Course selecting](file:///Users/myra/portfolio/pic/ia_100000000418.jpg?lastModify=1628958814)](Section 2-2) |
+|                                                             | [![Course selecting](pic/ia_100000000418.jpg?lastModify=1628958814)](Section 2-2) |
 | ![ia_100000000382](pic/ia_100000000382.jpg)                 |                                                              |
 |                                                             | ![ia_100000000402](pic/ia_100000000402.jpg)                  |
 | ![ia_100000000426](pic/ia_100000000426.jpg)                 |                                                              |
